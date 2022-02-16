@@ -12,6 +12,9 @@ Minhas redes sociais 👇
 
 [![Alt Text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-viana-844355205)
 
+🚀💻 Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 <!--
 **vianaV19/vianaV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
