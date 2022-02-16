@@ -1,8 +1,8 @@
 ### Hi, I'm Matheus 👋
 
-Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor full-stack. Programo desde os 14 e amo o que faço.
+Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor **Full-stack**. Programo desde os 14 e amo o que faço.
 
-Estou aprendendo no momento Ajax e JQUERY.
+Estou aprendendo no momento **Ajax e JQuery**
 
 - 🔭 Atualmente trabalho como desenvolvedor front-end freelancer
 - 📫 Como entrar em contato comigo matheus.viana518062@gmail.com
