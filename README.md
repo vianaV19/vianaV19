@@ -1,4 +1,6 @@
-### Hi, I'm Matheus
+### Hi, I'm Matheus 👋
+
+Sou estudante de Ciência da computação autodidata, no caminho para me tornar desenvolvedor full-stack
 
 <!--
 **vianaV19/vianaV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
