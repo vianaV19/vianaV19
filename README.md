@@ -1,6 +1,6 @@
 # Hi, I'm Matheus 👋
 
-Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor **Full-stack**. Programo desde os 14 e amo o que faço.
+Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor **Full-stack**. Me encontrei na área de programação desde muito cedo e sempre fui apaixonado pelo o que faço.
 
 Estou aprendendo no momento **Ajax e JQuery**
 
