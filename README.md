@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus 👋
 
-Sou estudante de Ciência da computação autodidata, no caminho para me tornar desenvolvedor full-stack
+Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor full-stack. Programo desde os 14 e amo o que faço.
 
 <!--
 **vianaV19/vianaV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
