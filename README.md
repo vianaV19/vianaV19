@@ -2,6 +2,10 @@
 
 Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor full-stack. Programo desde os 14 e amo o que faço.
 
+- 🔭 Atualmente trabalho como desenvolvedor front-end freelancer
+- 📫 Como entrar em contato comigo: matheus.viana518062@gmail.com
+- ⚡ Fun Fact: Adoro tocar piano como hobby
+
 <!--
 **vianaV19/vianaV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
