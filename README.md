@@ -10,7 +10,7 @@ Estou aprendendo no momento **Ajax e JQuery**
 
 Minhas redes sociais 👇
 
-[LinkedIN](https://www.linkedin.com/in/matheus-viana-844355205)
+[![Alt Text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-viana-844355205)
 
 <!--
 **vianaV19/vianaV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
