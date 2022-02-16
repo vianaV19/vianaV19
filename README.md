@@ -10,7 +10,7 @@ Estou aprendendo no momento **Ajax e JQuery**
 - 📫 Como entrar em contato comigo matheus.viana518062@gmail.com
 - ⚡ Fun Fact Adoro tocar piano como hobby
 
-### Minha comunidade no reddit 	[![alt](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+### Minha comunidade	[![alt](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
 #### Minhas redes sociais 👇
 
