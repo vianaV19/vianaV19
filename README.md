@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor **Full-stack**. Me encontrei na área de programação desde muito cedo e sempre fui apaixonado pelo o que faço.
 
-Estou aprendendo no momento **Ajax e JQuery**
+Estou aprendendo no momento **JQuery**
 
 ### :earth_africa: "Há três caminhos para o sucesso: Ensinar o que se sabe, praticar o que se ensina e perguntar o que se ignora." :fist:
 
