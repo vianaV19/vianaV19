@@ -11,7 +11,7 @@ Estou aprendendo no momento **Ajax e JQuery**
 - ⚡ Fun Fact Adoro tocar piano como hobby
 
 #### Participe da minha comunidade sobre TI 👇
-[![alt](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+[![alt](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/TecnologiaInformacao/)
 
 #### Minhas redes sociais 👇
 
