@@ -20,6 +20,7 @@ Estou aprendendo no momento **JQuery**
 #### My Learning :books:
 
 [![alt](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/matheus-viana-12/)
+[![alt](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/vianaV19/stats)
 
 #### 🚀💻 Technologies & Tools
 
