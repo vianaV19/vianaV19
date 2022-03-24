@@ -21,6 +21,7 @@ Estou aprendendo no momento **CSS TRICKS**
 
 [![alt](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/matheus-viana-12/)
 [![alt](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/vianaV19/stats)
+[![alt](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/matheus_viana511)
 
 #### 🚀💻 Technologies & Tools
 
