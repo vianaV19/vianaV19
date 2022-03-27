@@ -1,12 +1,12 @@
 # Hi, I'm Matheus 👋
 
-Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor **Full-stack**. Me encontrei na área de programação desde muito cedo e sempre fui apaixonado pelo o que faço.
+Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor **Front-End**. Me encontrei na área de programação desde muito cedo e sempre fui apaixonado pelo o que faço. 
 
 Estou aprendendo no momento **CSS TRICKS**
 
 ### :earth_africa: "Há três caminhos para o sucesso: Ensinar o que se sabe, praticar o que se ensina e perguntar o que se ignora." :fist:
 
-- 🔭 Atualmente trabalho como desenvolvedor front-end freelancer
+- 🔭 Atualmente procurando emprego como Dev Front-end Jr.
 - 📫 Como entrar em contato comigo matheus.viana518062@gmail.com
 - ⚡ Fun Fact Adoro tocar piano como hobby
 
