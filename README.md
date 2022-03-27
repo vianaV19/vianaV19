@@ -6,7 +6,7 @@ Estou aprendendo no momento **CSS TRICKS**
 
 ### :earth_africa: "Há três caminhos para o sucesso: Ensinar o que se sabe, praticar o que se ensina e perguntar o que se ignora." :fist:
 
-- 🔭 Atualmente procurando emprego como Dev Front-end Jr.
+- 🔭 Atualmente procurando emprego como **Dev Front-end Jr**.
 - 📫 Como entrar em contato comigo matheus.viana518062@gmail.com
 - ⚡ Fun Fact Adoro tocar piano como hobby
 
