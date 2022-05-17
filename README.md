@@ -2,13 +2,12 @@
 
 Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor **Full-Stack**. Me encontrei na área de programação desde muito cedo e sempre fui apaixonado pelo o que faço. 
 
-Estou aprendendo no momento **Criação DE APIs**
-
 ### :earth_africa: "Há três caminhos para o sucesso: Ensinar o que se sabe, praticar o que se ensina e perguntar o que se ignora." :fist:
 
-- 🔭 Atualmente procurando emprego como **Dev Front-end Jr**.
+- 🔭 Trabalhando como **Dev Full-Stack Jr** Freelancer.
+- 🌱 Estou aprendendo no momento **Criação DE APIs**
 - 📫 Como entrar em contato comigo matheus.viana518062@gmail.com
-- ⚡ Fun Fact Adoro tocar piano como hobby
+- ⚡ Fun Fact Adoro tocar piano e ukulele como hobby
 
 #### Participe da minha comunidade sobre TI 👇
 [![alt](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/TecnologiaInformacao/)
