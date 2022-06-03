@@ -5,7 +5,7 @@ Sou estudante de Ciência da computação autodidata, visando me tornar desenvol
 ### :earth_africa: "Há três caminhos para o sucesso: Ensinar o que se sabe, praticar o que se ensina e perguntar o que se ignora." :fist:
 
 - 🔭 Trabalhando como **Dev Full-Stack Jr** Freelancer.
-- 🌱 Estou aprendendo no momento **Criação DE APIs**
+- 🌱 Estou aprendendo no momento **Angular**
 - 📫 Como entrar em contato comigo matheus.viana518062@gmail.com
 - ⚡ Fun Fact Adoro tocar piano e ukulele como hobby
 
