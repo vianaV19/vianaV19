@@ -1,10 +1,10 @@
 # Hi, I'm Matheus 👋
 
-Sou estudante de Ciência da computação autodidata, visando me tornar desenvolvedor **Full-Stack**. Me encontrei na área de programação desde muito cedo e sempre fui apaixonado pelo o que faço. 
+Sou estudante de Ciência da Computação, visando me tornar desenvolvedor **Front-End**. Me encontrei na área de programação aos 14 anos e venho estudando objetivamente a mais de 2 anos, adquirindo experiência e sempre aprendendo tudo o que posso sobre a minha carreira. Durante a minha trajetória ja participei de hackathon, atuei como freelancer e e também como estagiário em uma iniciação científica. 
 
 ### :earth_africa: "Há três caminhos para o sucesso: Ensinar o que se sabe, praticar o que se ensina e perguntar o que se ignora." :fist:
 
-- 🔭 Trabalhando como **Dev Full-Stack Jr** Freelancer.
+- 🔭 Prourando Trabalho como **Dev Front-End Junior**.
 - 🌱 Estou aprendendo no momento **Angular**
 - 📫 Como entrar em contato comigo matheus.viana518062@gmail.com
 - ⚡ Fun Fact Adoro tocar piano e ukulele como hobby
