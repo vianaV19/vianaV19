@@ -14,7 +14,7 @@ Sou estudante de Ciência da Computação, visando me tornar desenvolvedor **Fro
 
 #### Minhas redes sociais 👇
 
-[![Alt Text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-viana-844355205)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-viana-844355205) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/viannaV19)
 
 #### My Learning :books:
 
