@@ -1,6 +1,6 @@
 # Hi, I'm Matheus 👋
 
-Sou estudante de Ciência da Computação, visando me tornar desenvolvedor **Front-End**. Me encontrei na área de programação aos 14 anos e venho estudando objetivamente a mais de 2 anos, adquirindo experiência e sempre aprendendo tudo o que posso sobre a minha carreira. Durante a minha trajetória ja participei de hackathon, atuei como freelancer e e também como estagiário em uma iniciação científica. 
+Sou estudante de Ciência da Computação, visando me tornar desenvolvedor **Front-End**. Me encontrei na área de programação aos 14 anos e venho estudando objetivamente a mais de 2 anos, adquirindo experiência e sempre aprendendo tudo o que posso sobre a minha carreira. Durante a minha trajetória ja participei de hackathon, atuei como freelancer e também como estagiário em uma iniciação científica. 
 
 ### :earth_africa: "Há três caminhos para o sucesso: Ensinar o que se sabe, praticar o que se ensina e perguntar o que se ignora." :fist:
 
